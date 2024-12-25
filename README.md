@@ -9,7 +9,8 @@
 > By creating a mini version of a social media site, Faceclone demonstrates the potential of Django for developing interactive and engaging web applications. This project is a good starting point for anyone interested in web development and social networking sites.
 
 
-![Screenshot 2024-07-24 145901](https://github.com/user-attachments/assets/3ef04736-afcb-474a-ac29-9c78bd6f1786)
+
 <h2>
   The project sample
 <h2/>
+![Screenshot 2024-07-24 145901](https://github.com/user-attachments/assets/3ef04736-afcb-474a-ac29-9c78bd6f1786)
